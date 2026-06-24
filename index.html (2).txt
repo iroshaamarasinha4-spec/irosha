@@ -1,0 +1,359 @@
+Here's an upgraded AI website builder prompt you can paste directly into Lovable, Bolt, v0, Replit AI, or similar tools:
+
+# Build a Premium Website for IROSH ALUMINIUM
+
+Create a modern, premium, fully responsive business website for **IROSH ALUMINIUM**, a professional aluminium and glass fabrication company.
+
+## Business Information
+
+**Company Name:** IROSH ALUMINIUM
+
+**Tagline:** Professional Aluminium & Glass Solutions
+
+**Industry:** Aluminium Construction & Fabrication
+
+**Services:**
+
+* Aluminium Doors
+* Aluminium Windows
+* Glass Partitions
+* Office Partitions
+* Shop Fronts
+* Curtain Walls
+* Hand Railings
+* Aluminium Cladding
+* Shower Cubicles
+* Residential Projects
+* Commercial Projects
+* Custom Aluminium Fabrication
+
+---
+
+## Design Style
+
+Create a luxury corporate website similar to high-end construction and architectural company websites.
+
+### Colors
+
+* Primary: #0F172A (Dark Navy)
+* Secondary: #C0C0C0 (Silver)
+* Accent: #F59E0B (Gold)
+* White: #FFFFFF
+* Light Gray: #F8FAFC
+
+### Typography
+
+Use Google Font:
+
+* Poppins
+
+### Visual Style
+
+* Elegant
+* Premium
+* Modern
+* Clean
+* Professional
+* Smooth animations
+* Glassmorphism effects
+* Subtle shadows
+* Rounded corners
+* High-quality construction imagery
+
+---
+
+# WEBSITE STRUCTURE
+
+## 1. Sticky Header
+
+Include:
+
+* Company Logo
+* Navigation Menu
+
+  * Home
+  * About
+  * Services
+  * Projects
+  * Testimonials
+  * Contact
+* Mobile Hamburger Menu
+* Call Now Button
+
+Sticky on scroll with background blur effect.
+
+---
+
+## 2. Hero Section
+
+Full-screen hero banner.
+
+Background:
+Modern aluminium and glass building.
+
+Overlay:
+Dark gradient overlay.
+
+Content:
+Heading:
+"Professional Aluminium & Glass Solutions"
+
+Subheading:
+"We deliver premium aluminium fabrication and glass installation services for residential and commercial projects."
+
+Buttons:
+
+* Get Free Quote
+* View Our Projects
+
+Features:
+
+* Parallax effect
+* Fade-in animations
+* Floating elements
+* Scroll indicator
+
+---
+
+## 3. About Us Section
+
+Include:
+
+### Who We Are
+
+IROSH ALUMINIUM is a trusted aluminium fabrication company providing high-quality aluminium and glass solutions for homes, offices, shops, and commercial buildings.
+
+### Mission
+
+To deliver durable, stylish, and innovative aluminium solutions that exceed customer expectations.
+
+### Vision
+
+To become the leading aluminium fabrication company in Sri Lanka.
+
+Add:
+
+* Professional image
+* Experience highlights
+* Animated appearance on scroll
+
+---
+
+## 4. Services Section
+
+Create attractive service cards.
+
+Each card includes:
+
+* Icon
+* Title
+* Description
+* Hover animation
+
+Services:
+
+1. Aluminium Doors
+2. Aluminium Windows
+3. Glass Partitions
+4. Office Partitions
+5. Shop Fronts
+6. Curtain Walls
+7. Hand Railings
+8. Custom Projects
+
+Use CSS Grid layout.
+
+---
+
+## 5. Why Choose Us
+
+Animated statistics section.
+
+Display:
+
+500+
+Completed Projects
+
+10+
+Years Experience
+
+100%
+Customer Satisfaction
+
+24/7
+Support
+
+Include:
+
+* Counter animation
+* Background image
+* Overlay effect
+
+---
+
+## 6. Project Gallery
+
+Modern masonry gallery layout.
+
+Categories:
+
+* All
+* Residential
+* Commercial
+* Office
+
+Features:
+
+* Filter buttons
+* Hover zoom
+* Lightbox popup
+* Smooth transitions
+
+Use placeholder project images.
+
+---
+
+## 7. Process Section
+
+4-Step Process
+
+Step 1:
+Consultation
+
+Step 2:
+Design Planning
+
+Step 3:
+Fabrication
+
+Step 4:
+Installation
+
+Use timeline style design.
+
+---
+
+## 8. Testimonials
+
+Create sliding testimonial carousel.
+
+Include:
+
+* Customer image
+* Customer name
+* Star ratings
+* Review text
+
+Auto-slide every 5 seconds.
+
+---
+
+## 9. Contact Section
+
+Split layout.
+
+### Left Side
+
+Contact Form
+
+Fields:
+
+* Name
+* Phone Number
+* Email
+* Project Type
+* Message
+
+### Right Side
+
+Company Information:
+
+* Phone
+* WhatsApp
+* Email
+* Address
+
+Embed Google Maps placeholder.
+
+---
+
+## 10. Footer
+
+Include:
+
+* Company Logo
+* Quick Links
+* Services List
+* Contact Details
+* Social Media Icons
+
+Bottom:
+© 2025 IROSH ALUMINIUM. All Rights Reserved.
+
+---
+
+# EXTRA FEATURES
+
+Add:
+
+✓ Loading Screen
+
+✓ Scroll To Top Button
+
+✓ Floating WhatsApp Button
+
+✓ Floating Call Button
+
+✓ Smooth Scrolling
+
+✓ Reveal Animations
+
+✓ Counter Animations
+
+✓ Mobile Responsive Design
+
+✓ SEO Optimized Structure
+
+✓ Accessibility Friendly
+
+✓ Fast Loading Performance
+
+✓ Modern Hover Effects
+
+✓ Sticky Navigation
+
+✓ Form Validation
+
+✓ Lightbox Gallery
+
+✓ Testimonial Slider
+
+✓ Professional Animations
+
+---
+
+# TECHNICAL REQUIREMENTS
+
+Generate complete production-ready code with:
+
+1. index.html
+2. style.css
+3. script.js
+
+Use:
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+No frameworks.
+
+Use:
+
+* CSS Grid
+* Flexbox
+* Responsive Design
+
+Ensure the website looks like a premium international aluminium construction company and is suitable for attracting residential and commercial clients.
+
+This version will usually generate a much more professional website than a short prompt and is optimized for AI website builders.
